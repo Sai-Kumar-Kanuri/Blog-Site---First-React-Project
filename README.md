@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="./Screenshots/Screenshot 2023-03-02 225245.png" width="350" title="hover text">
-  <img src="./Screenshots/Screenshot 2023-03-02 225350.png" width="350" alt="accessibility text">
 </p>
+<img src="./Screenshots/Screenshot 2023-03-02 225350.png" width="350" alt="accessibility text">
 
 # Getting Started with Create React App
 
