@@ -1,8 +1,8 @@
-#Screeshots
+# Screeshots
 
 <p align="center">
-  <img src="./Blog-Site---First-React-Project/Screenshots/Screenshot 2023-03-02 225245.png" width="350" title="hover text">
-  <img src="./Blog-Site---First-React-Project/Screenshots/Screenshot 2023-03-02 225350.png" width="350" alt="accessibility text">
+  <img src="./Screenshots/Screenshot 2023-03-02 225245.png" width="350" title="hover text">
+  <img src="./Screenshots/Screenshot 2023-03-02 225350.png" width="350" alt="accessibility text">
 </p>
 
 # Getting Started with Create React App
