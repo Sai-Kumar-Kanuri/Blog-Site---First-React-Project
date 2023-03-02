@@ -1,7 +1,7 @@
 # Screeshots
 
 <p align="center">
-  <img src="./Screenshots/Screenshot 2023-03-02 225245.png" width="100px" title="hover text">
+  <img src="./Screenshots/Screenshot 2023-03-02 225245.png" title="hover text">
 </p>
 <img src="./Screenshots/Screenshot 2023-03-02 225350.png" width="350" alt="accessibility text">
 
